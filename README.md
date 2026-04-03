@@ -78,7 +78,7 @@ VITE_ALPACA_BASE_URL=https://paper-api.alpaca.markets
 
 ## 🌐 Live Demo
 
-👉 https://sentinel-claw-shield.lovable.app/
+👉 https://sentinel-guard-navy.vercel.app/
 
 ---
 
