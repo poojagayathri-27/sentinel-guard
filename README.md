@@ -16,7 +16,7 @@ Sentinel is an AI-powered financial enforcement system that converts natural lan
 * 🧾 Trade Logging & Audit System
 
 ## dasboard 
-![dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
@@ -30,9 +30,9 @@ Sentinel is an AI-powered financial enforcement system that converts natural lan
 6. Trade executes via Alpaca
 
 ## output
-![allowed](assets/allowed.png)
-![blocked](assets/blocked.png)
-![analytics](assets/analytics.png)
+![Allowed](assets/allowed.png)
+![Blocked](assets/blocked.png)
+![Analytics](assets/analytics.png)
 ---
 
 ## 🏗️ Tech Stack
