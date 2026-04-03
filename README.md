@@ -16,8 +16,7 @@ Sentinel is an AI-powered financial enforcement system that converts natural lan
 * 🧾 Trade Logging & Audit System
 
 ## dasboard 
-![Dashboard](assets/dashboard.png)
-
+![Dashboard](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/dashboard.png)
 ---
 
 ## ⚙️ How It Works
@@ -30,9 +29,9 @@ Sentinel is an AI-powered financial enforcement system that converts natural lan
 6. Trade executes via Alpaca
 
 ## output
-![Allowed](assets/allowed.png)
-![Blocked](assets/blocked.png)
-![Analytics](assets/analytics.png)
+![Allowed](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/allowed.png)
+![Blocked](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/blocked.png)
+![Analytics](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/analytics.png)
 ---
 
 ## 🏗️ Tech Stack
@@ -84,9 +83,7 @@ VITE_ALPACA_BASE_URL=https://paper-api.alpaca.markets
 
 ## 👩‍💻 Author
 
-Pooja Gayathri
-Hari Mithra
-Nikshitha Sri
+CODE BUSTERS
 
 ---
 
