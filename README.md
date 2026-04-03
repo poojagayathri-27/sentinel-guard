@@ -28,19 +28,15 @@ Sentinel is an AI-powered financial enforcement system that converts natural lan
 5. Decision engine: ALLOW / WARN / BLOCK
 6. Trade executes via Alpaca
 
-## output
- -- allowed trade
+## allowed trade
 
 ![Allowed](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/allowed.png)
 
 
--- blocked trade 
+
+
+## blocked trade
 ![Blocked](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/blocked.png)
-
-
--- analytics chart
-![Analytics](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/analytics.png)
-
 
 ---
 
@@ -50,6 +46,10 @@ Sentinel is an AI-powered financial enforcement system that converts natural lan
 * Supabase Edge Functions
 * Alpaca Paper Trading API
 
+---
+## analytics chart 
+
+![Analytics](https://raw.githubusercontent.com/poojagayathri-27/sentinel-guard/main/assets/analytics.png)
 ---
 
 ## 📦 Setup Instructions
